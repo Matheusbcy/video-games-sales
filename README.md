@@ -53,19 +53,23 @@ O arquivo `VideoGamesSales.csv` contém informações sobre vendas globais de jo
    ```bash
    git clone https://github.com/seu-usuario/video-game-sales.git
    cd video-game-sales
-2. Instale as dependências: 
+2. Instale as dependências:
+    ```bash
     pip install -r requirements.txt
 3. Execute o notebook ou script principal:
+    ```bash
     video_game_sales.ipynb (notebook)
 
 ## 📂 Estrutura do projeto
 
+```
 video-game-sales/
 ├── VideoGamesSales.csv
 ├── video_game_sales.ipynb
 ├── README.md
 └── requirements.txt
 
+```
 ## ✍️ Autor
 
 Matheus – Estudante de Análise e Desenvolvimento de Sistemas com foco em Ciência de Dados
