@@ -68,7 +68,6 @@ video-game-sales/
 ├── video_game_sales.ipynb
 ├── README.md
 └── requirements.txt
-
 ```
 ## ✍️ Autor
 
